@@ -1,1 +1,1 @@
-Porjeto realizado pelo curso explorer da rocketseat
+Projeto realizado pelo curso explorer da rocketseat
